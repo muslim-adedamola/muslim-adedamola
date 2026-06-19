@@ -1,8 +1,8 @@
-# Hi, I'm Muslim Alaran 👋
+# Hi, I'm Muslim A. Alaran 👋
 
-**Robot learning researcher** working at the intersection of **vision-language-action models, reinforcement learning, and real-world manipulation.** Incoming PhD student in Robot Learning, advised by [Prof. Elmar Rückert](https://scholar.google.com/citations?user=EKUvWkkAAAAJ&hl=en) at the [Technical University of Leoben](https://www.unileoben.ac.at/en/technical-university-of-leoben/). Previously at the [AI for Robotics Lab](https://aifors.fer.hr/) (University of Zagreb), the Robot Control and Learning Lab, and the [Institute for Smart Systems and AI](https://issai.nu.edu.kz/) (Nazarbayev University).
+**Robot Learning Researcher** working at the intersection of **vision-language-action models, reinforcement learning, and real-world manipulation.** Incoming PhD student in Robot Learning, advised by [Prof. Elmar Rückert](https://scholar.google.com/citations?user=EKUvWkkAAAAJ&hl=en) at the [Technical University of Leoben](https://www.unileoben.ac.at/en/technical-university-of-leoben/). Previously at the [AI for Robotics Lab](https://aifors.fer.hr/) (University of Zagreb), the Robot Control and Learning Lab, and the [Institute for Smart Systems and AI](https://issai.nu.edu.kz/) (Nazarbayev University).
 
-I care about closing the gap between learned policies and robots that actually work in the physical world — which usually means the unglamorous parts: data pipelines, sim-to-real transfer, control timing, and honest evaluation.
+I care about closing the gap between learned policies and robots that actually work in the physical world. That usually means the unglamorous parts: data pipelines, sim-to-real transfer, control timing, and honest evaluation.
 
 ---
 
@@ -28,9 +28,9 @@ A reusable toolkit for generating wide field-of-view, hemispherical, and fisheye
 
 ---
 
-## 🌍 Open-source contributions
+## Contributions
 
-**[open-planning/roboplan](https://github.com/open-planning/roboplan)** — Merged PRs to a modern Pinocchio-based robot motion-planning library, including base-frame support for the Jacobian, acceleration/jerk limit support, a `CartesianTrajectory` type, dual-end-effector support, and a keyboard teleoperation example.
+**[open-planning/roboplan](https://github.com/open-planning/roboplan)** — contributor to a Pinocchio-based robot motion-planning library (merged PRs across the Jacobian, trajectory types, and teleoperation).
 
 ---
 
