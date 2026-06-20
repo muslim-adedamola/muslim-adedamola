@@ -8,7 +8,7 @@ I care about closing the gap between learned policies and robots that actually w
 
 ## 🔬 Research interests
 
-- **Vision-language-action models & imitation learning** — adapting generalist robot policies to new embodiments with small in-domain datasets
+- **Vision-language-action models & imitation learning**: adapting generalist robot policies to new embodiments with small in-domain datasets
 - **Reinforcement learning for manipulation & control**
 - **Motion planning** — kinematics, trajectory generation, real-time control
 - **Sim-to-real transfer** and real-robot deployment on manipulators (Kinova Gen3) and mobile platforms
@@ -20,8 +20,7 @@ I care about closing the gap between learned policies and robots that actually w
 **[Finetuning Octo on a Kinova Gen3 (hybrid arm–gripper control)](https://github.com/muslim-adedamola/finetune-octo-kinova-hybrid)**
 A full research-engineering pipeline for adapting the Octo VLA to a 7-DoF Kinova arm for goal-image-conditioned pick-and-lift. Combines a diffusion action head for arm motion with a separate binary (BCE) gripper head, plus TFDS/RLDS data conversion and latency-aware receding-horizon deployment on the real robot. Finetuned on ~110 demonstrations; includes qualitative appearance-generalization tests on unseen bottle colors.
 
-**[Reinforcement learning with Kinova](https://github.com/muslim-adedamola/reinforcement-learning-with-kinova)**
-PPO-trained reaching policies for a Kinova arm in MuJoCo / Gymnasium, trained to 20M–50M timesteps.
+**[Reinforcement learning with Kinova](https://github.com/muslim-adedamola/reinforcement-learning-with-kinova)**: PPO policies for a 7-DoF Kinova Gen3 arm in MuJoCo / Gymnasium across three environments - joint-space reaching, multi-static obstacle avoidance, and dynamic obstacle avoidance with curriculum learning.
 
 **[Wide-FOV dataset toolkit](https://github.com/muslim-adedamola/wide-fov-dataset-toolkit)**
 A reusable toolkit for generating wide field-of-view, hemispherical, and fisheye object-detection datasets from standard perspective images.
@@ -30,7 +29,7 @@ A reusable toolkit for generating wide field-of-view, hemispherical, and fisheye
 
 ## Contributions
 
-**[open-planning/roboplan](https://github.com/open-planning/roboplan)** — contributor to a Pinocchio-based robot motion-planning library (merged PRs across the Jacobian, trajectory types, and teleoperation).
+**[open-planning/roboplan](https://github.com/open-planning/roboplan)**: contributor to a Pinocchio-based robot motion-planning library (merged PRs across the Jacobian, trajectory types, and teleoperation).
 
 ---
 
