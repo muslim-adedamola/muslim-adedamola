@@ -27,12 +27,6 @@ A reusable toolkit for generating wide field-of-view, hemispherical, and fisheye
 
 ---
 
-## Contributions
-
-**[open-planning/roboplan](https://github.com/open-planning/roboplan)**: contributor to a Pinocchio-based robot motion-planning library (merged PRs across the Jacobian, trajectory types, and teleoperation).
-
----
-
 ## 📚 Publications
 
 My work appears in journals including *Robotics and Autonomous Systems*, *IEEE Access*, and the *Digital Health* journal, and in conferences including IFAC, IECON, and M2VIP.
