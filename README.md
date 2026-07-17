@@ -15,18 +15,6 @@ I care about closing the gap between learned policies and robots that actually w
 
 ---
 
-## 🤖 Selected projects
-
-**[Finetuning Octo on a Kinova Gen3 (hybrid arm–gripper control)](https://github.com/muslim-adedamola/finetune-octo-kinova-hybrid)**
-A full research-engineering pipeline for adapting the Octo VLA to a 7-DoF Kinova arm for goal-image-conditioned pick-and-lift. Combines a diffusion action head for arm motion with a separate binary (BCE) gripper head, plus TFDS/RLDS data conversion and latency-aware receding-horizon deployment on the real robot. Finetuned on ~110 demonstrations; includes qualitative appearance-generalization tests on unseen bottle colors.
-
-**[Reinforcement learning with Kinova](https://github.com/muslim-adedamola/reinforcement-learning-with-kinova)**: PPO policies for a 7-DoF Kinova Gen3 arm in MuJoCo / Gymnasium across three environments - joint-space reaching, multi-static obstacle avoidance, and dynamic obstacle avoidance with curriculum learning.
-
-**[Wide-FOV dataset toolkit](https://github.com/muslim-adedamola/wide-fov-dataset-toolkit)**
-A reusable toolkit for generating wide field-of-view, hemispherical, and fisheye object-detection datasets from standard perspective images.
-
----
-
 ## 📚 Publications
 
 My work appears in journals including *Robotics and Autonomous Systems*, *IEEE Access*, and the *Digital Health* journal, and in conferences including IFAC, IECON, and M2VIP.
