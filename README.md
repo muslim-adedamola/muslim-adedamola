@@ -17,7 +17,7 @@ I care about closing the gap between learned policies and robots that actually w
 
 ## 📚 Publications
 
-My work appears in journals including *Robotics and Autonomous Systems*, *IEEE Access*, and the *Digital Health* journal, and in conferences including IFAC, IECON, and M2VIP.
+My work appears in journals including *Robotics and Autonomous Systems*, *IEEE Access*, and in conferences including IFAC, IECON, and M2VIP.
 
 📄 Full list: [Google Scholar](https://scholar.google.com/citations?user=wQWYbuEAAAAJ&hl=en)
 
