@@ -11,7 +11,7 @@ I care about closing the gap between learned policies and robots that actually w
 - **Vision-language-action models & imitation learning**: adapting generalist robot policies to new embodiments with small in-domain datasets
 - **Reinforcement learning for manipulation & control**
 - **Motion planning**: kinematics, trajectory generation, real-time control
-- **Sim-to-real transfer** and real-robot deployment on manipulators (Kinova Gen3) and mobile platforms
+- **Sim-to-real transfer** and real-robot deployment.
 
 ---
 
