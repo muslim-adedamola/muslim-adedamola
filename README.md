@@ -26,5 +26,3 @@ My work appears in journals including *Robotics and Autonomous Systems*, *IEEE A
 ## 📫 Reach me
 
 - LinkedIn: [in/muslim-alaran](https://www.linkedin.com/in/muslim-alaran/)
-- Email: `[email]`
-- Website: `[portfolio link]`
