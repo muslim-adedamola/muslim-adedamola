@@ -9,7 +9,7 @@ I care about closing the gap between learned policies and robots that actually w
 ## 🔬 Research interests
 
 - **Vision-language-action models & imitation learning**: adapting generalist robot policies to new embodiments with small in-domain datasets
-- **Reinforcement learning for manipulation & control**
+- **Reinforcement learning for loco-manipulation & control**
 - **Motion planning**: kinematics, trajectory generation, real-time control
 - **Sim-to-real transfer** and real-robot deployment.
 
@@ -22,7 +22,3 @@ My work appears in journals including *Robotics and Autonomous Systems*, *IEEE A
 📄 Full list: [Google Scholar](https://scholar.google.com/citations?user=wQWYbuEAAAAJ&hl=en)
 
 ---
-
-## 📫 Reach me
-
-- LinkedIn: [in/muslim-alaran](https://www.linkedin.com/in/muslim-alaran/)
